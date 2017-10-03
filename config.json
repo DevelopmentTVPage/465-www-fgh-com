@@ -1,0 +1,15 @@
+{
+    "title": "uio",
+    "baseURL": "https:\/\/www.fgh.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "3",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "fgh.com"
+    }
+}
