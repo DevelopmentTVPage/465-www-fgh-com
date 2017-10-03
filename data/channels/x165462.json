@@ -1,0 +1,38 @@
+{
+    "title": "Charbroil TV",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1399315984",
+    "date_modified": "1406756701",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "165462",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "Charbroil-TV",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "816563710-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "auto": {
+            "dynamic": 0,
+            "limit": 8,
+            "cartIds": [
+                9,
+                602,
+                765
+            ],
+            "excIds": [
+                "165634",
+                "165551"
+            ]
+        },
+        "canvasCropped": "816563710-028120441427.jpg",
+        "autoPlay": 1
+    },
+    "transcripts": null
+}

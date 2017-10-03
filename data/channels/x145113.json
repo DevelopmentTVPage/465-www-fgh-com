@@ -1,0 +1,24 @@
+{
+    "title": "Petco TV",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1394762392",
+    "date_modified": "1395779863",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "145113",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "Petco-TV",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "817255156-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "817255156-001632918.jpg"
+    },
+    "transcripts": null
+}

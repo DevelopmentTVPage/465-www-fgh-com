@@ -1,0 +1,24 @@
+{
+    "title": "Dell TV",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1391711105",
+    "date_modified": "1391845153",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "142499",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "Dell-TV",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "282601968-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "282601968-01541278871.jpg"
+    },
+    "transcripts": null
+}

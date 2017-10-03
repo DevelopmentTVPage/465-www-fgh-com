@@ -1,0 +1,38 @@
+{
+    "title": "TVPage Promotions",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401254455",
+    "date_modified": "1486517056",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "169353",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "TVPage-Promotions",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "699368469-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "699368469-044820481601.jpg",
+        "auto": {
+            "dynamic": 0,
+            "limit": 8,
+            "cartIds": [
+                764,
+                765,
+                824,
+                826
+            ],
+            "excIds": [
+                "169352"
+            ]
+        },
+        "optimize": 0
+    },
+    "transcripts": null
+}

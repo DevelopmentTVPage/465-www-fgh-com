@@ -1,0 +1,39 @@
+{
+    "title": "Hurley",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398291870",
+    "date_modified": "1420274056",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "158327",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "Hurley",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "607092083-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "607092083-0751090688.jpg",
+        "auto": {
+            "dynamic": 0,
+            "limit": 4,
+            "excIds": [
+                "158339",
+                "158346",
+                "158349",
+                "158351",
+                "158432",
+                "158357"
+            ]
+        },
+        "autoPlay": 1,
+        "hideoos": 0,
+        "optimize": 1
+    },
+    "transcripts": null
+}

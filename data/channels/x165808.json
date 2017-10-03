@@ -1,0 +1,29 @@
+{
+    "title": "Kate Somerville",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1399581786",
+    "date_modified": "1407576116",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "165808",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "Kate-Somerville",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "417584246-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "417584246-010320451259.jpg",
+        "auto": {
+            "dynamic": 0,
+            "limit": 8,
+            "cartIds": []
+        }
+    },
+    "transcripts": null
+}

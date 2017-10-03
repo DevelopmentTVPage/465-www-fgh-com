@@ -1,0 +1,24 @@
+{
+    "title": "Test Channel One",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1491415318",
+    "date_modified": "1491415690",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "87570926",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "Test-Channel-One",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "enableSubscribers": true
+    },
+    "transcripts": null
+}

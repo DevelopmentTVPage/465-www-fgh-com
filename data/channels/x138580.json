@@ -1,0 +1,24 @@
+{
+    "title": "DKNY TV",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1389296979",
+    "date_modified": "1389809726",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "138580",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "DKNY-TV",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "858578870-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "858578870-017216001070.jpg"
+    },
+    "transcripts": null
+}

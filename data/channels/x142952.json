@@ -1,0 +1,24 @@
+{
+    "title": "Knorr Video Collection",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1392777474",
+    "date_modified": "1394436877",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "142952",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "Knorr-Video-Collection",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "340104868-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "340104868-254116720378.jpg"
+    },
+    "transcripts": null
+}

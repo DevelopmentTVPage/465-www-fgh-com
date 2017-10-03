@@ -1,0 +1,27 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "6681514",
+            "title": "HURLEY YOUTH: ELI HANNEMAN",
+            "date_created": "1445291462",
+            "loginId": "3",
+            "tags": "",
+            "description": "Eli Hanneman is only twelve, but his surfing is far beyond his age. Displaying a rail game that's as precise as his movements in the air, Eli brings a complete dynamic to his surfing.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/nJBkVSEtc88\/hqdefault.jpg",
+                "uploadDate": 1445291462,
+                "videoId": "nJBkVSEtc88",
+                "title": "HURLEY YOUTH: ELI HANNEMAN",
+                "description": "Eli Hanneman is only twelve, but his surfing is far beyond his age. Displaying a rail game that's as precise as his movements in the air, Eli brings a complete dynamic to his surfing.",
+                "author": "Hurley",
+                "mediaDuration": 236,
+                "prettyDuration": "00:03:56",
+                "views": "66798"
+            },
+            "parentId": "67190341",
+            "url": "\/pdp-channel\/hurley-youth-eli-hanneman\/67190341-6681514"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "title": "New TVPage",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1395779904",
+    "date_modified": "1395780512",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "146551",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "New-TVPage",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "933781697-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "933781697-01221278839.jpg"
+    },
+    "transcripts": null
+}

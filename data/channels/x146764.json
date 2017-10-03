@@ -1,0 +1,23 @@
+{
+    "title": "Charbroil TV",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1396031776",
+    "date_modified": "1396031829",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "146764",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "Charbroil-TV",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}

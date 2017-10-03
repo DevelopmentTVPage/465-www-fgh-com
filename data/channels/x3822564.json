@@ -1,0 +1,24 @@
+{
+    "title": "AG Jeans",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1423674201",
+    "date_modified": "1431971620",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3822564",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "AG-Jeans",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "429861635-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "429861635-3111145657.jpg"
+    },
+    "transcripts": null
+}
